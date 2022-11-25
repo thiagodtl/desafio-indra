@@ -6,7 +6,7 @@ O teste consiste em resolver 3 desafios, utilizando a linguagem de programação
 
 # Instruções para entrega do desafio
 
-1. Primeiro, faça um fork deste projeto para sua conta no Github (crie uma se você não possuir).
+1. Primeiro, faça um fork deste projeto para sua conta no Github.
 2. Em seguida, baixe o repositório em seu ambiente local.
 3. Cada desafio deverá ser respondido em um arquivo destinado a ele, nomeado com o título do mesmo (ex: apresentando-hello-word.php), dentro de uma pasta `src`.
 4. Os desafios precisam ser respondidos utilizando da versão 5.* do PHP.
@@ -44,8 +44,8 @@ Essas cores são codificadas da seguinte forma:
 
 O objetivo deste exercício é criar uma maneira:
 
-* olhar o valor numérico associado a uma faixa de cor específica,
-* para listar as diferentes cores da faixa.
+* verificar se a cor informada existe na lista. se não existir.
+* exibir o valor númerico da cor informada de acordo com a tabela.
 
 
 ## Distância de Hamming entre duas fitas de DNA
