@@ -2,16 +2,16 @@
 
 Por favor leiam este documento do começo ao fim, com muita atenção. <br>
 O intuito deste teste é avaliar seus conhecimentos técnicos em programação. <br>
-O teste consiste em resolver 3 desafios, utilizando da linguagem de programação PHP. <br>
+O teste consiste em resolver 3 desafios, utilizando a linguagem de programação PHP. <br>
 
-# Instruções de entrega do desafio
+# Instruções para entrega do desafio
 
 1. Primeiro, faça um fork deste projeto para sua conta no Github (crie uma se você não possuir).
 2. Em seguida, baixe o repositório em seu ambiente local.
 3. Cada desafio deverá ser respondido em um arquivo destinado a ele, nomeado com o título do mesmo (ex: apresentando-hello-word.php), dentro de uma pasta `src`.
 4. Os desafios precisam ser respondidos utilizando da versão 5.* do PHP.
 5. O uso de Docker, composer se faz opcional. Como também o uso de TDD e de comentários (pontos extras se forem aplicados).
-6. Os testes não precisam ser completos até a data limite, iremos avaliar sua lógico e qual caminho você pensou como solução.
+6. Os testes não precisam ser completos até a data limite, iremos por avaliar sua lógica e qual caminho você pensou como solução.
 7. Por fim, envie via email o projeto ou o fork/link do projeto para o email <pvictora@minsait.com>. A data de entrega é até o dia **28/11/2022**.
 
 # Desafios
