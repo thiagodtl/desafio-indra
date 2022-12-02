@@ -12,7 +12,7 @@ O teste consiste em resolver 3 desafios, utilizando a linguagem de programação
 4. Os desafios precisam ser respondidos utilizando da versão 5.* do PHP.
 5. O uso de Docker, composer se faz opcional. Como também o uso de TDD e de comentários (pontos extras se forem aplicados).
 6. Os testes não precisam ser completos até a data limite, iremos por avaliar sua lógica e qual caminho você pensou como solução.
-7. Por fim, envie via email o projeto ou o fork/link do projeto para o email <pvictora@minsait.com>. A data de entrega é até o dia **28/11/2022**.
+7. Por fim, envie via email o projeto ou o fork/link do projeto para o email <pvictora@minsait.com>.
 
 # Desafios
 
@@ -44,7 +44,7 @@ Essas cores são codificadas da seguinte forma:
 
 O objetivo deste exercício é criar uma maneira:
 
-* verificar se a cor informada existe na lista. se não existir.
+* verificar se a cor informada existe na lista.
 * exibir o valor númerico da cor informada de acordo com a tabela.
 
 
