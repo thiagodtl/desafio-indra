@@ -9,10 +9,10 @@ O teste consiste em resolver 3 desafios, utilizando a linguagem de programação
 1. Primeiro, faça um fork deste projeto para sua conta no Github.
 2. Em seguida, baixe o repositório em seu ambiente local.
 3. Cada desafio deverá ser respondido em um arquivo destinado a ele, nomeado com o título do mesmo (ex: apresentando-hello-word.php), dentro de uma pasta `src`.
-4. Os desafios precisam ser respondidos utilizando da versão 5.* do PHP.
+4. Os desafios precisam ser respondidos utilizando da versão 5.* do PHP. Nenhum framework deverá ser utilizado.
 5. O uso de Docker, composer se faz opcional. Como também o uso de TDD e de comentários (pontos extras se forem aplicados).
 6. Os testes não precisam ser completos até a data limite, iremos por avaliar sua lógica e qual caminho você pensou como solução.
-7. Por fim, envie via email o projeto ou o fork/link do projeto para o email <pvictora@minsait.com>.
+7. Por fim,faça o envio do projeto ou o fork/link para o email <pvictora@minsait.com>.
 
 # Desafios
 
