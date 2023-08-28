@@ -25,7 +25,7 @@
     </form>
     
     <?php
-  //Lista de cores
+  //Lista das cores
     $cores = array(
         'Preto' => 0,
         'Marrom' => 1,
@@ -39,7 +39,7 @@
         'Branco' => 9
     );
 
-    // Função pra escolhe
+    // Função pra escolher a cor
     function corExiste($cor) {
         global $cores;
         return array_key_exists($cor, $cores);
